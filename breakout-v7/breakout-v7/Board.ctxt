@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Board()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Board.\n\ \n
+comment1.params=howMany
+comment1.target=void\ drawRandomCircles(int)
+comment2.params=
+comment2.target=void\ drawCircle()
+comment2.text=\n\ Draw\ a\ circle\ with\ random\ size\ and\ colour.\n
+comment3.params=
+comment3.target=void\ createBlocks()
+comment3.text=\n\ Create\ the\ blocks\ at\ the\ top\ of\ the\ world.\n
+comment4.params=y
+comment4.target=void\ createRow(int)
+comment5.params=
+comment5.target=void\ ballIsOut()
+comment6.params=
+comment6.target=void\ score()
+numComments=7

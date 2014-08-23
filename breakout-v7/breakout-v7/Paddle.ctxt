@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Paddle()
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment1.text=\n\ When\ the\ paddle\ gets\ created,\ create\ a\ ball\ as\ well.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Paddle\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=dist
+comment3.target=void\ moveSideways(int)
+comment4.params=
+comment4.target=void\ newBall()
+comment5.params=
+comment5.target=boolean\ haveBall()
+comment6.params=
+comment6.target=void\ releaseBall()
+numComments=7
